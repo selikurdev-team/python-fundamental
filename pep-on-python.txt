@@ -1,0 +1,21 @@
+PEP singkatan dari Python Enhancement Proposal. Sebuah PEP adalah sebuah dokumen desain yang menyediakan informasi kepada komunitas Python, atau mengusulkan perubahan pada Python itu sendiri, atau mendeskripsikan sebuah fitur baru dan proses atau lingkungan yang digunakan. Misalnya, PEP-8 adalah panduan gaya pemrograman Python, dan PEP-20 adalah Zen of Python, yang adalah sekumpulan aforisma mengenai desain dalam bahasa Python.
+
+Ada beberapa jenis PEP:
+
+Standards Track PEPs: Mengusulkan perubahan baru dan membahas API dan implementasi.
+
+Informational PEPs: Menyediakan informasi umum dan tidak mengusulkan perubahan pada bahasa itu sendiri.
+
+Process PEPs: Menyediakan panduan tentang proses yang akan dijalankan dalam pengembangan Python. Misalnya, PEP-1 adalah PEP tentang PEPs.
+
+Contoh beberapa PEP yang paling terkenal:
+
+PEP-8: Menyediakan konvensi tentang gaya kode untuk kode Python, seperti bagaimana melakukan indentasi, bagaimana menamai variabel, dll.
+
+PEP-20: Dikenal juga sebagai "Zen of Python," yang merupakan 19 aforisma untuk menulis program Python yang baik.
+
+PEP-484: Mengenalkan type hints, yang memungkinkan untuk secara opsional menentukan jenis variabel.
+
+PEP-492: Memperkenalkan sintaks async dan await untuk menulis coroutine, yang memudahkan penulisan kode yang asynchronous.
+
+Dengan PEPs, komunitas Python bisa mempertimbangkan, mengomentari, dan mengadopsi perubahan atau fitur baru dalam bahasa Python, memastikan bahwa perubahan tersebut dibuat secara terbuka dan demokratis.
